@@ -1,4 +1,5 @@
-#카지노
+#카지노 https://www.acmicpc.net/problem/2798
+
 
 a, b = list(map(int, input().split()))
 data = list(map(int, input().split()))
