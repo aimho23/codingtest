@@ -1,4 +1,4 @@
-## 스택 : https://www.acmicpc.net/problem/1874##
+## 스택 : https://www.acmicpc.net/problem/1874###
 a = int(input())
 
 count = 1
